@@ -71,6 +71,9 @@ Calamitips is a mobile application designed to provide users with essential info
 ### **5. Registration Screen**
 <img src="https://github.com/gabbernardo/calamitips_demo_version/blob/main/Screenshots/registration_screen_screenshot.jpg?raw=true" width="45%" />
 
+### **5. Current Location Screen (The details are highlighted for security purposes)**
+<img src="https://github.com/gabbernardo/calamitips_demo_version/blob/main/Screenshots/user_current_location_screenshot.jpg?raw=true" width="45%" />
+
 
 ## Contact
 
